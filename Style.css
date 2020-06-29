@@ -1,0 +1,53 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+	
+  font-family: "Luckiest Guy";
+  margin-top: 50px;
+  justify-content: center;
+  height: 100vh	;
+  background: teal;
+
+}
+.texto1, .texto2{
+  background-position: center;
+  box-sizing: content-box;
+text-align: center;
+  font-size: 40px;
+  color: white;
+  text-shadow: 1px 1px 0px #a9a9a9, 2px 2px 0px #a2a2a2, 3px 3px 0px #b5b5b5,
+                   4px 4px 0px black,
+                   5px 5px 0px black,
+                   10px 10px 3px black;
+
+}
+.texto1{
+  background-color: black;
+}
+.texto2{
+  margin-top: 25px;
+}
+.Bryner{
+  margin-top: 25px;
+  float: center;
+}
+.imagenBryner, .imagenDiego{
+  width: 220px;
+   height: 220px;
+   float: center;
+}
+.contenido{
+  background-color: black;
+}
+.Diego{
+  margin-top: 25px;
+  float: center;
+}
+.Eunice{
+  margin-top: 25px;
+  float: center;
+}
