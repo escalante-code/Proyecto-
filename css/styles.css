@@ -6,11 +6,11 @@
 
 body{
 	
-  font-family: "Luckiest Guy";
+  font-family: "cursive";
   margin-top: 50px;
   justify-content: center;
   height: 100vh	;
-  background: teal;
+  background: cyan;
 
 }
 .texto1, .texto2{
@@ -18,15 +18,15 @@ body{
   box-sizing: content-box;
 text-align: center;
   font-size: 40px;
-  color: white;
-  text-shadow: 1px 1px 0px #a9a9a9, 2px 2px 0px #a2a2a2, 3px 3px 0px #b5b5b5,
-                   4px 4px 0px black,
-                   5px 5px 0px black,
-                   10px 10px 3px black;
+  color: black;
+  text-anchor: : 1px 1px 0px #a9a9a9, 2px 2px 0px #a2a2a2, 3px 3px 0px #b5b5b5,
+                   4px 4px 0px white,
+                   5px 5px 0px white,
+                   10px 10px 3px white;
 
 }
 .texto1{
-  background-color: black;
+  background-color: blueviolet;
 }
 .texto2{
   margin-top: 25px;
@@ -35,13 +35,13 @@ text-align: center;
   margin-top: 25px;
   float: center;
 }
-.imagenBryner, .imagenDiego{
+.imagenBryner, .imagenDiego, .imagenEunice{
   width: 220px;
    height: 220px;
    float: center;
 }
 .contenido{
-  background-color: black;
+  background-color: blueviolet;
 }
 .Diego{
   margin-top: 25px;
